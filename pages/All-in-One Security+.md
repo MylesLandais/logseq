@@ -5,10 +5,10 @@
 	- Tools
 - Phishing
 - Smishing
-- Vishing
+- Vishing - Phishing over voice.
 - Spam
 - Spam over Instant Messaging (SPIM)
-- Spear Phishing
+- Spear Phishing - Targeting a specific person
 - Dumpster Diving
 - Shoulder Surfing
 - Pharming
@@ -41,4 +41,7 @@
 - Defenses
 - Chapter Review
 	- Questions
+	- 1.
+	- 2.
+	- 3.
 	- Answers
