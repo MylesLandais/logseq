@@ -1,47 +1,42 @@
 - # Threats, Attacks, and Vulnerabilities
 - ## Social Engineering Techniques
-- Social Engineering Techniques
-- Social Engineering Methods
-	- Tools
-- Phishing
-- Smishing
-- Vishing - Phishing over voice.
-- Spam
-- Spam over Instant Messaging (SPIM)
-- Spear Phishing - Targeting a specific person
-- Dumpster Diving
-- Shoulder Surfing
-- Pharming
-- Tailgating
-- Eliciting Information
-- Whaling
-- Prepending
-- Identity Fraud
-- Invoice Scams
-- Credential Harvesting
-- Reconnaissance
-- Hoax
-- Impersonation
-	- Third-Party Authorization
-	- Contractors/Outside Parties
-	- Online Attacks
+	- Social Engineering Techniques
+	- Social Engineering Methods
+		- Tools
+	- Phishing
+	- Smishing
+	- Vishing - Phishing over voice.
+	- Spam
+	- Spam over Instant Messaging (SPIM)
+	- Spear Phishing - Targeting a specific person
+	- Dumpster Diving
+	- Shoulder Surfing
+	- Pharming
+	- Tailgating
+	- Eliciting Information
+	- Whaling
+	- Prepending
+	- Identity Fraud
+	- Invoice Scams
+	- Credential Harvesting
+	- Reconnaissance
+	- Hoax
+	- Impersonation
+		- Third-Party Authorization
+		- Contractors/Outside Parties
+		- Online Attacks
+		- Defenses
+	- Watering Hole Attack
+	- Typosquatting
+	- Pretexting
+	- Influence Campaigns
+	- Principles (Reasons for Effectiveness)
+		- Authority
+		- Intimidation
+		- Consensus
+		- Scarcity
+		- Familiarity
+		- Trust
+		- Urgency
 	- Defenses
-- Watering Hole Attack
-- Typosquatting
-- Pretexting
-- Influence Campaigns
-- Principles (Reasons for Effectiveness)
-	- Authority
-	- Intimidation
-	- Consensus
-	- Scarcity
-	- Familiarity
-	- Trust
-	- Urgency
-- Defenses
-- Chapter Review
-	- Questions
-	- 1.
-	- 2.
-	- 3.
-	- Answers
+- ## Authentication and Authorization
